@@ -7,7 +7,7 @@
 # Gabriel Candido
 <sub>*Manufacturing Analyst* in a multinational consumer goods company</sub>
 
-Graduated in Control and Automation Engineering from the Federal Institute of Education, Science and Technology of São Paulo. Experience with manufacturing, applying World Class Manufacturing tools and continuous improvement methodologies to identify and reduce losses and increase industrial performance. Technology enthusiast, using data science and data-driven decision making concepts to help solve manufacturing problems. Experience in managing people and working with multidisciplinary teams
+Graduated in Control and Automation Engineering from the Federal Institute of Education, Science and Technology of São Paulo. Experience with manufacturing, applying World Class Manufacturing tools and continuous improvement methodologies to identify and reduce losses and increase industrial performance. Technology enthusiast, using data science and data-driven decision making concepts to help solve manufacturing problems. Experience in managing people and working with multidisciplinary teams.
 
 **Background in:** Python, Statistical process control, Power BI, WCM.
 
