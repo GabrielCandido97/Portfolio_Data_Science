@@ -9,10 +9,15 @@
 
 Graduated in Control and Automation Engineering from the Federal Institute of Education, Science and Technology of São Paulo. Experience with manufacturing, applying World Class Manufacturing tools and continuous improvement methodologies to identify and reduce losses and increase industrial performance. Technology enthusiast, using data science and data-driven decision making concepts to hel solve manufacturing problems. Experience in managing people and working with multidisciplinary teams
 
-**Background in:** Python, Statistical process control, Power BI, SQL.
+**Background in:** Python, Statistical process control, Power BI, WCM.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/gabriel-teles-candido-70b281118)
+
+## Cursos:
+
+* Control and Automation Engineering - Federal Institute of Education, Science and Technology of São Paulo (IFSP)
+* Data Science na Prática 3.0 - Sigmoidal (ongoing)
 
 
 ## Projetos:
