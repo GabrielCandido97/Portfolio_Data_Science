@@ -22,7 +22,7 @@ Graduated in Control and Automation Engineering from the Federal Institute of Ed
 
 ## Projetos:
 
-* **Adicionar Projeto**
+* [Análise dos Dados do Airbnb - Berlim](https://github.com/GabrielCandido97/Portfolio_Data_Science/blob/main/Analisando_os_Dados_do_Airbnb_Berlim.ipynb)
 
 
 ---
